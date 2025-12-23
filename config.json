@@ -1,0 +1,10 @@
+{
+  "youtube": {
+    "apiKey": "sua_api_key_aqui",
+    "channelId": "id_do_canal"
+  },
+  "mensagem": {
+    "texto": "seu_texto_aqui"
+  }
+}
+

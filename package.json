@@ -1,0 +1,15 @@
+{
+  "name": "youtube-divulgador-pro",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "discord.js": "^14.14.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "whatsapp-web.js": "^1.25.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
